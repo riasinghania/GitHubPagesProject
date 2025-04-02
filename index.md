@@ -30,6 +30,8 @@ I used the `git add` command to add the new file and I used `git commit` to comm
 
 I used the `git push --set-upstream origin add-read-me` command to push my commit to the remote branch. 
 
+**Acknowledge that the commit message should have been `Update readme file.`**
+
 > Working via VS Code
 
 **Image of the `Source Control` tab showing the changes staged to commit as well as the new branch I created `VS-code-new-branch`**
