@@ -20,17 +20,15 @@ Once I was in the editor I used my mousepad to go to the first line and add `Ria
 
 **Adding and committing the changes**
 
-![Alt Text](Screenshots/Screen%20Shot%202025-04-02%20at%2012.36.12%20PM.png)
+![Alt Text](Screenshots/Screen%20Shot%202025-04-02%20at%201.47.59%20PM.png)
 
-I used the `git add` command to add the new file and I used `git commit` to commit the changes with the message "Add Ria's User Page to README"
+I used the `git add .` command to add the new file and I used `git commit` to commit the changes with the message "Add Ria's User Page to README"
 
 **Pushing the changes**
 
 ![Alt Text](Screenshots/Screen%20Shot%202025-04-02%20at%2012.36.19%20PM.png)
 
 I used the `git push --set-upstream origin add-read-me` command to push my commit to the remote branch. 
-
-**Acknowledge that the commit message should have been `Update readme file.`**
 
 > Working via VS Code
 
